@@ -1,2 +1,4 @@
-# ESWA2025
-ESWA2025
+# ESWA 2025
+ESWA 2025
+
+This repository contains all data and code used in the paper “Uncertainty-aware machine learning models for flash flood prediction” by Jaqueline A. J. P. Soares, Allan K. S. Soares, Luiz F. Satolo, Graziela B. Scofield, Stephan Stephany, and Leonardo B. L. Santos.
